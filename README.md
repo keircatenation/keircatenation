@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+Pronouns: they/them
+
+I'm currently working on rehauling my personal portolfio website, while taking a three-part front end web decelopment course at Monroe Community College. I'm currently familiarizing myself with the newest CSS specs and am learning Javascript!
+
 <!--
 **keircatenation/keircatenation** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
