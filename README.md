@@ -10,7 +10,7 @@
  - rehauling my personal portfolio website
  - varios school projects
 
-🌱 I'm currently learning, through a course at Monroe Community COllege:
+🌱 I'm currently learning, through a course at Monroe Community College:
  - newest CSS specs
  - Javascript
  - React
