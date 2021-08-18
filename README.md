@@ -8,7 +8,8 @@
 
 🔭 I'm currently working on:
  - rehauling my personal portfolio website
- - varios school projects
+ - various school projects
+ - a JS dragon game
 
 🌱 I'm currently learning, through a course at Monroe Community College:
  - newest CSS specs
